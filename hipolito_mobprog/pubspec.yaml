@@ -22,6 +22,16 @@ flutter:
     - assets/images/gta6.jpg
     - assets/images/jason.jpg
     - assets/images/jb.jpg
+    - assets/images/tony_profile.jpg
+    - assets/images/tony_post.jpg
+    - assets/images/cooper_profile.jpg
+    - assets/images/cooper_post.jpg
+    - assets/images/peter_profile.jpg
+    - assets/images/peter_post.jpg
+    - assets/images/kyrie_profile.jpg
+    - assets/images/kyrie_post.jpg
+    - assets/images/doom_profile.jpg
+    - assets/images/doom_post.jpg
   fonts:
     - family: Klavika
    
