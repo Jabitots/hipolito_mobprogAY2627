@@ -17,7 +17,7 @@ class _HomeScreenState extends State<HomeScreen> {
   int _selectedIndex = 0;
   final PageController _pageController = PageController();
 
-  // Enhancement 4: Custom app name (palitan kung gusto mo ng ibang pangalan)
+
   static const String _appName = 'PhaseBook';
 
   // Enhancement 2: Dynamic AppBar title per selected tab

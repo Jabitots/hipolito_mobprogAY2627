@@ -32,6 +32,16 @@ flutter:
     - assets/images/kyrie_post.jpg
     - assets/images/doom_profile.jpg
     - assets/images/doom_post.jpg
+    - assets/images/nba_profile.jpg
+    - assets/images/nba_post.jpg
+    - assets/images/dunkin_profile.jpeg
+    - assets/images/dunkin_post.jpg
+    - assets/images/nvidia_profile.jpg
+    - assets/images/nvidia_post.jpg
+    - assets/images/mcdo_profile.jpg
+    - assets/images/mcdo_post.jpg
+    - assets/images/kfc_profile.jpg
+    - assets/images/kfc_post.jpg
   fonts:
     - family: Klavika
    
